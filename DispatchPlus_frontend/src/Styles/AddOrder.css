@@ -1,0 +1,69 @@
+.addOrderBox {
+    width: 500px;
+    height: 100px;
+    margin: 0 auto;
+}
+.pickUpAddressSpan {
+    font-size: 15px;
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+.inputBox {
+    width: 480px;
+}
+
+.weightSpanBox {
+    font-size: 15px;
+    font-weight: bold;
+    margin-right: 5px;
+    margin-left: 30px;
+}
+
+.descriptionSpanBox {
+    font-size: 15px;
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+.weightInputBox {
+    width: 50px;
+}
+
+.descriptionInputBox {
+    width: 390px;
+}
+
+.textBox {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.buttonBox {
+    display: flex;
+    justify-content: space-between;
+}
+
+.button1 {
+    width: 100px;
+    margin-right: 20px;
+}
+
+.button2 {
+    width: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.droneRobotOption {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.addOrderSpinBox {
+    width: 400px;
+    height: 100px;
+    margin: 0 auto;
+}

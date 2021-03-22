@@ -1,0 +1,32 @@
+.spinBox {
+    width: 400px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.allDeliveredBox {
+    display: flex;
+    width: 400px;
+    height: 100px;
+    margin: 0 auto;
+    align-items: center;
+}
+
+.allDeliveredTextBox {
+    width: 300px;
+    height: 30px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+.trackBox {
+    width: 100%;
+    height: 1500px;
+    margin: 0 auto;
+}
+
+.trackOrders {
+    margin: 0 auto;
+    font-size: 15px;
+}
